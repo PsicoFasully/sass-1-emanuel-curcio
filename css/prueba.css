@@ -1,0 +1,24 @@
+header {
+  background-color: chartreuse; }
+  header nav {
+    display: flex;
+    justify-content: space-around; }
+  header a {
+    text-decoration: none;
+    font-size: 25px;
+    color: black; }
+    header a:hover {
+      color: white; }
+
+body {
+  background-color: gray; }
+
+footer {
+  background-color: chartreuse;
+  margin-top: 750px;
+  display: flex;
+  justify-content: space-between; }
+  footer a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black; }

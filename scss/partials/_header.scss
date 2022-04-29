@@ -1,0 +1,22 @@
+$color:white;
+
+
+header{
+    background-color: chartreuse;
+    nav{
+        display: flex;
+        justify-content: space-around;
+    }
+    a{
+        text-decoration: none;
+        font-size: 25px;
+        color: black;
+        &:hover{
+            color:$color ;
+        }
+    }
+
+}
+body{
+    background-color: gray;
+}
